@@ -1,12 +1,9 @@
 # Browser-notification
 use browser notification with socket.io push a message to users 
 
-#### 1 
-```npm install``` 
-#### 2 
-```node index.js```
-#### 3
-open the browser and visit http://localhost:8080/
+#### 1. ```npm install``` 
+#### 2. ```node index.js```
+#### 3.  Open the browser and visit http://localhost:8080/
 
 ### 前言
 > socket.io: 包含对websocket的封装，可实现服务端和客户端之前的通信。详情见[官网](http://socket.io) (虽然是英文文档，但还是通俗易懂)。
