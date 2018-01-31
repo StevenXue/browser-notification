@@ -138,6 +138,6 @@ test
 ```
 ### 运行截图
 
-完整示例代码见[GitHub](https://github.com/yezihaohao/notification)
+完整示例代码见[GitHub](https://github.com/StevenXue/browser-notification)
 
 ![截图](https://raw.githubusercontent.com/yezihaohao/yezihaohao.github.io/master/imgs/TEST.gif)
