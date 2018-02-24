@@ -30,6 +30,7 @@
 			$('#m').val('');
 			return false;
 		});
+		
 		socket.on('notification', function(msg){
 			notice(msg);
 		});
